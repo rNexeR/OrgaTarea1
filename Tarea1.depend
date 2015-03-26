@@ -42,3 +42,26 @@
 1412476262 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea1/Mascota.cpp
 	"Mascota.h"
 
+1427383427 source:/home/rnexer/Programacion 3/ExamenPrueba/OrgaTarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1427331038 /home/rnexer/Programacion 3/ExamenPrueba/OrgaTarea1/Evaluador.h
+	"Mascota.h"
+	<iostream>
+	<queue>
+
+1427331038 /home/rnexer/Programacion 3/ExamenPrueba/OrgaTarea1/Mascota.h
+	<iostream>
+	<list>
+	<fstream>
+
+1427331038 source:/home/rnexer/Programacion 3/ExamenPrueba/OrgaTarea1/Mascota.cpp
+	"Mascota.h"
+
+1427383354 source:/home/rnexer/Programacion 3/ExamenPrueba/OrgaTarea1/main.cpp
+	"Mascota.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+	<fstream>
+
